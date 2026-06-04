@@ -1,0 +1,1 @@
+python3.7 train.py --config config/REAL/camera_real.yaml

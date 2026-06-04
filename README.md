@@ -1,5 +1,5 @@
 # KeyPose: Category-Level 6D Object Pose Estimation with Self-Adaptive Keypoints
-This is the official implementation of AAAI25 paper "KeyPose: Category-Level 6D Object Pose Estimation with Self-Adaptive Keypoints"
+This is the official implementation of AAAI25 paper "KeyPose: Category-Level 6D Object Pose Estimation with Self-Adaptive Keypoints". Because I am quite busy recently, I may not have time to help you answer questions. The code I provide is for your reference. Thank you for your understanding!
 
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/33046/35201)]
 
